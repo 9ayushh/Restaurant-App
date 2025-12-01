@@ -1,0 +1,24 @@
+{
+  "name": "restaurant-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9ayushh/Restaurant-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/9ayushh/Restaurant-App/issues"
+  },
+  "homepage": "https://github.com/9ayushh/Restaurant-App#readme",
+  "dependencies": {
+    "vite": "^6.4.1"
+  }
+}
